@@ -16,6 +16,11 @@ Grunt jobs to be define in Gruntfile.js
 # Functionality
 
 Login just requires username.
+You will be able to see the notifications in the dropdown.
+When you will click on the bell, notication counter will fade, unread notifications and read notifications can be seen in the dropdown.
+When you will click on the document, notifications dropdown will fade.
+When you will click on the bell, new notifications will be pushed in the dropdown as unread and will be unread until bell is clicked again.
+On Refreshing all the read and unread notifications can be seen.
 
 
 # Notification System
