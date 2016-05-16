@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+    <% include ./partials/head %>
+</head>
+<body class="container">
+
+<header class="main-header">
+    <% include ./partials/header %>
+</header>
+<section class="middle-container">
+    <div id="inputDialog" style="display:none" title="User Notification">
+        <form id="inputForm" method="post" action="/user">
+            <label for="username">Username</label>
+            <input type="text" placeholder="username" name="username" required>
+        </form>
+    </div>
+</section>
+<footer>
+    <% include ./partials/footer %>
+</footer>
+
+
+<script>
+    var socket;
+    <% if (locals.isLoggedIn) { %>
+    var host = "<%= host %>",
+            port = "<%= port %>";
+        socket = io.connect('http://' + host + ':' + port);
+        socket.emit('user', "<%= locals.user %>");
+    <% } %>
+    $(document).ready(function()
+    {
+        var readElements;
+        if (socket){
+            socket.on('notification', function (jsonData) {
+                try {
+                    $("#notification_li .notification_count").show().html(jsonData.counter);
+                    for(var i=0 ; i<jsonData.notifications.length; i++){
+                        if (jsonData.notifications[i].status){
+                            $("#notificationsBody").prepend("<li class='unread'>" + jsonData.notifications[i].notification + "</li>");
+                        } else {
+                            $("#notificationsBody").prepend("<li class='read'>" + jsonData.notifications[i].notification + "</li>");
+                        }
+                    }
+                } catch(e){
+                    console.log(e);
+                }
+            });
+        }
+
+        $("#notificationLink").click(function()
+        {
+            if (socket) {
+                socket.emit('reset');
+            }
+            if (readElements) {
+                readElements.removeClass('unread')
+                        .addClass('read');
+            }
+            readElements = $("#notificationsBody li");
+
+            $("#notificationContainer").fadeToggle(300);
+            $("#notification_li .notification_count").fadeOut("slow");
+            return false;
+        });
+
+        $(document).click(function()
+        {
+            if (readElements) {
+                readElements.removeClass('unread')
+                        .addClass('read');
+            }
+            $("#notificationContainer").hide();
+        });
+
+        $("#notificationContainer").click(function()
+        {
+            return false
+        });
+
+        $(document).on('click', '.login', function(){
+            $('#inputDialog').dialog('open');
+        })
+
+        $("#inputDialog").dialog({
+            width : 230,
+            height : "auto",
+            modal : true,
+            autoOpen: false,
+            buttons: [
+                {
+                    text : "OK",
+                    type : "Submit",
+                    form : "inputForm",
+                    click : function(event) {
+                        //$("#inputForm").submit();
+                        $('#inputDialog').dialog('close');
+                    }
+                }
+            ]
+        });
+
+    });
+</script>
+
+</body>
+</html>

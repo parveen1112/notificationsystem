@@ -1,0 +1,25 @@
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            Notification System
+        </div>
+        <section class="nav-links">
+            <ul id="nav">
+                <li id="notification_li">
+                    <span class="notification_count"></span>
+                    <img id="notificationLink" alt="Notifications" src="images/bell.png" style="height: 39px;width: 37px;margin-top: -10px;">
+                    <div id="notificationContainer">
+                        <div id="notificationTitle">Notifications
+                            <span class="notification_count" style="margin-top: -24px;margin-left: 223px;font-size: 15px;"></span>
+                        </div>
+                        <div id="notificationsBody" class="notifications">
+                        </div>
+                    </div>
+
+                </li>
+                <li><img alt="mail" src="images/mail.png"></li>
+                <li><% if (locals.isLoggedIn) { %> <a class="logout" href="/logout">Logout</a> <% }else{ %> <a class="login" href="#">Login</a> <% } %></li>
+            </ul>
+        </section>
+    </div>
+</nav>
