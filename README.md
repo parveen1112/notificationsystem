@@ -7,19 +7,29 @@ Notification system
 I have created a custom framework over #express for this application. This framework is somewhat similar to sails.
 
 api folder contains middlewares, controllers, models, services.
+
 assets folder contains the static files.
+
 logs folder will contain the generated log files. I am using winston for logging <lib/logger>.
+
 configs contains the configuration files.
+
 configs/env contains the environment configurations.
+
 Grunt jobs to be define in Gruntfile.js
 
 # Functionality
 
 Login just requires username.
+
 You will be able to see the notifications in the dropdown.
+
 When you will click on the bell, notication counter will fade, unread notifications and read notifications can be seen in the dropdown.
+
 When you will click on the document, notifications dropdown will fade.
+
 When you will click on the bell, new notifications will be pushed in the dropdown as unread and will be unread until bell is clicked again.
+
 On Refreshing all the read and unread notifications can be seen.
 
 
