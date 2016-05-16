@@ -1,0 +1,535 @@
+2016-05-14T08:11:18.555Z - info:    {"message":"-------------------Application Started-----------------"}
+2016-05-14T11:00:31.002Z - info:    {"message":"-------------------Application Started-----------------"}
+2016-05-14T11:00:58.230Z - info:    {"message":"-------------------Application Started-----------------"}
+2016-05-14T11:02:03.541Z - info:    {"message":"-------------------Application Started-----------------"}
+2016-05-14T11:02:50.101Z - info:    {"message":"-------------------Application Started-----------------"}
+2016-05-14T11:04:30.822Z - info:    {"message":"-------------------Application Started-----------------"}
+2016-05-14T11:07:02.712Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:07:47.635Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:11:30.544Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:21:00.454Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:31:25.700Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:31:28.461Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined ReferenceError _ is not defined\"}ReferenceError: _ is not defined\n    at Logger.LogFormatter (/home/parveen1112/WebstormProjects/NotificationSystem/lib/logger/index.js:12:9)\n    at Logger.error (/home/parveen1112/WebstormProjects/NotificationSystem/lib/logger/index.js:66:33)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:46:9\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at Immediate.next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)\n    at Immediate.<anonymous> (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:618:15)\n    at Immediate.immediate._onImmediate (timers.js:435:18)"}
+2016-05-14T11:32:22.826Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:32:26.082Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined ReferenceError forEach is not defined\"}ReferenceError: forEach is not defined\n    at Logger.LogFormatter (/home/parveen1112/WebstormProjects/NotificationSystem/lib/logger/index.js:12:9)\n    at Logger.error (/home/parveen1112/WebstormProjects/NotificationSystem/lib/logger/index.js:66:33)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:46:9\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at Immediate.next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)\n    at Immediate.<anonymous> (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:618:15)\n    at Immediate.immediate._onImmediate (timers.js:435:18)"}
+2016-05-14T11:36:01.721Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:36:10.105Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined TypeError content.forEach is not a function\"}TypeError: content.forEach is not a function\n    at Logger.LogFormatter (/home/parveen1112/WebstormProjects/NotificationSystem/lib/logger/index.js:12:17)\n    at Logger.error (/home/parveen1112/WebstormProjects/NotificationSystem/lib/logger/index.js:66:33)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:46:9\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at Immediate.next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)\n    at Immediate.<anonymous> (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:618:15)\n    at Immediate.immediate._onImmediate (timers.js:435:18)"}
+2016-05-14T11:37:25.042Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:37:29.097Z - error:   {"message":"/ : 404"}
+2016-05-14T11:37:29.099Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined ReferenceError ErrorResponses is not defined\"}ReferenceError: ErrorResponses is not defined\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:47:33\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at Immediate.next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)\n    at Immediate.<anonymous> (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:618:15)\n    at Immediate.immediate._onImmediate (timers.js:435:18)\n    at processImmediate [as _immediateCallback] (timers.js:383:17)"}
+2016-05-14T11:39:07.602Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:39:09.988Z - error:   {"message":"/ : 404"}
+2016-05-14T11:39:09.991Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined Error Can't set headers after they are sent.\"}Error: Can't set headers after they are sent.\n    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:335:11)\n    at ServerResponse.header (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/response.js:718:10)\n    at ServerResponse.contentType (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/response.js:551:15)\n    at ServerResponse.send (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/response.js:138:14)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:47:28\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at Immediate.next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)"}
+2016-05-14T11:54:00.293Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:54:53.965Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T11:54:57.117Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined SyntaxError Unexpected token a\"}SyntaxError: Unexpected token a\n    at Object.parse (native)\n    at module.exports.get (/home/parveen1112/WebstormProjects/NotificationSystem/api/controllers/IndexController.js:4:14)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/lib/router/index.js:30:22\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/route.js:131:13)\n    at Route.dispatch (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:277:22\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)"}
+2016-05-14T12:05:51.792Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T12:06:13.366Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"ENOENT Error ENOENT: no such file or directory, open '/home/parveen1112/WebstormProjects/NotificationSystem/partials/head.ejs'\"}Error: ENOENT: no such file or directory, open '/home/parveen1112/WebstormProjects/NotificationSystem/partials/head.ejs'\n    at Error (native)\n    at Object.fs.openSync (fs.js:549:18)\n    at Object.fs.readFileSync (fs.js:397:15)\n    at includeSource (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:195:17)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:549:26\n    at Array.forEach (native)\n    at Object.Template.generateSource (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:526:15)\n    at Object.Template.compile (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:444:12)\n    at Object.compile (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:289:16)\n    at handleCache (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:148:16)"}
+2016-05-14T12:06:48.160Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T12:06:52.315Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlANoI : 404"}
+2016-05-14T12:06:53.439Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAO3y : 404"}
+2016-05-14T12:06:55.381Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAOYI : 404"}
+2016-05-14T12:06:59.597Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAPa6 : 404"}
+2016-05-14T12:07:04.612Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAQoU : 404"}
+2016-05-14T12:07:09.625Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAS0p : 404"}
+2016-05-14T12:07:14.640Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlATF9 : 404"}
+2016-05-14T12:07:19.654Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAUTZ : 404"}
+2016-05-14T12:07:24.663Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAVhq : 404"}
+2016-05-14T12:07:29.675Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAWw5 : 404"}
+2016-05-14T12:07:34.687Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAY8Q : 404"}
+2016-05-14T12:07:39.705Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAZMi : 404"}
+2016-05-14T12:07:44.783Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAabB : 404"}
+2016-05-14T12:07:49.795Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAbqR : 404"}
+2016-05-14T12:07:54.842Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAd2r : 404"}
+2016-05-14T12:07:59.860Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAeHg : 404"}
+2016-05-14T12:08:01.905Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAeni : 404"}
+2016-05-14T12:08:02.706Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAe-9 : 404"}
+2016-05-14T12:08:05.646Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAfiA : 404"}
+2016-05-14T12:08:10.659Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAgwT : 404"}
+2016-05-14T12:08:15.840Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlAiBN : 404"}
+2016-05-14T12:18:45.904Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T12:20:51.306Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T12:24:52.131Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:48:56.884Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:49:57.151Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:50:00.208Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlX-W6 : 404"}
+2016-05-14T13:50:01.724Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlX-tr : 404"}
+2016-05-14T13:50:03.667Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlX_MG : 404"}
+2016-05-14T13:50:07.558Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY0J2 : 404"}
+2016-05-14T13:50:08.288Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY0US : 404"}
+2016-05-14T13:50:08.999Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY0fa : 404"}
+2016-05-14T13:50:10.339Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY0-W : 404"}
+2016-05-14T13:50:14.551Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY20K : 404"}
+2016-05-14T13:50:19.558Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY3EZ : 404"}
+2016-05-14T13:50:24.569Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY4Sp : 404"}
+2016-05-14T13:50:29.584Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY5h8 : 404"}
+2016-05-14T13:50:34.596Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY6vV : 404"}
+2016-05-14T13:50:39.604Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY87m : 404"}
+2016-05-14T13:50:44.611Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlY9M0 : 404"}
+2016-05-14T13:50:49.621Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYAaI : 404"}
+2016-05-14T13:50:54.628Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYBoX : 404"}
+2016-05-14T13:50:59.636Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYD0n : 404"}
+2016-05-14T13:51:04.643Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYEE_ : 404"}
+2016-05-14T13:51:08.757Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:51:09.663Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYFTF : 404"}
+2016-05-14T13:51:14.839Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYGkF : 404"}
+2016-05-14T13:51:18.747Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYHhN : 404"}
+2016-05-14T13:51:19.466Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYHsc : 404"}
+2016-05-14T13:51:22.183Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYIX0 : 404"}
+2016-05-14T13:51:27.199Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYJlN : 404"}
+2016-05-14T13:51:32.211Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYKzk : 404"}
+2016-05-14T13:51:37.837Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYMLc : 404"}
+2016-05-14T13:51:44.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYO2- : 404"}
+2016-05-14T13:51:51.838Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYPmN : 404"}
+2016-05-14T13:51:58.839Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYRTm : 404"}
+2016-05-14T13:52:05.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYTB7 : 404"}
+2016-05-14T13:52:12.840Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYUuV : 404"}
+2016-05-14T13:52:19.841Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYWbt : 404"}
+2016-05-14T13:52:26.840Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYYJG : 404"}
+2016-05-14T13:52:33.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYa0d : 404"}
+2016-05-14T13:52:39.083Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYbIf : 404"}
+2016-05-14T13:52:39.664Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYbRi : 404"}
+2016-05-14T13:52:41.178Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYbpN : 404"}
+2016-05-14T13:52:43.157Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYcIH : 404"}
+2016-05-14T13:52:47.397Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYdKY : 404"}
+2016-05-14T13:52:52.410Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYeYo : 404"}
+2016-05-14T13:52:57.424Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlYfnA : 404"}
+2016-05-14T13:55:52.675Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:55:53.847Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZKrd : 404"}
+2016-05-14T13:55:56.531Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZLVk : 404"}
+2016-05-14T13:55:57.765Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZLo_ : 404"}
+2016-05-14T13:55:59.748Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZMI0 : 404"}
+2016-05-14T13:56:04.098Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZNL_ : 404"}
+2016-05-14T13:56:09.109Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZOaD : 404"}
+2016-05-14T13:56:14.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZPzk : 404"}
+2016-05-14T13:56:21.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZRh6 : 404"}
+2016-05-14T13:56:28.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZTOU : 404"}
+2016-05-14T13:56:35.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZV5t : 404"}
+2016-05-14T13:56:42.844Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZWpI : 404"}
+2016-05-14T13:56:49.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZYWc : 404"}
+2016-05-14T13:56:56.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZaD- : 404"}
+2016-05-14T13:57:03.843Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZbxN : 404"}
+2016-05-14T13:57:10.838Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZden : 404"}
+2016-05-14T13:57:17.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZfM6 : 404"}
+2016-05-14T13:57:24.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZh3U : 404"}
+2016-05-14T13:57:31.840Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZimu : 404"}
+2016-05-14T13:57:38.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZkUE : 404"}
+2016-05-14T13:57:45.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZmBc : 404"}
+2016-05-14T13:57:52.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZnu- : 404"}
+2016-05-14T13:57:59.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZpcN : 404"}
+2016-05-14T13:58:06.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZrJk : 404"}
+2016-05-14T13:58:12.360Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:58:13.848Z - error:   {"message":"{\"url\":\"/socket.io/?EIO=3&transport=polling&t=LIlZt16\",\"method\":\"GET\",\"cause\":\"undefined TypeError res.headers is not a function\"}TypeError: res.headers is not a function\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:45:9\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)\n    at SendStream.error (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/node_modules/serve-static/index.js:120:7)\n    at emitOne (events.js:77:13)\n    at SendStream.emit (events.js:169:7)\n    at SendStream.error (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/node_modules/send/index.js:245:17)"}
+2016-05-14T13:58:15.605Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined TypeError res.headers is not a function\"}TypeError: res.headers is not a function\n    at /home/parveen1112/WebstormProjects/NotificationSystem/server.js:45:9\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:312:13)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)\n    at SendStream.error (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/node_modules/serve-static/index.js:120:7)\n    at emitOne (events.js:77:13)\n    at SendStream.emit (events.js:169:7)\n    at SendStream.error (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/node_modules/send/index.js:245:17)"}
+2016-05-14T13:58:29.128Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:58:31.953Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZxS8 : 404"}
+2016-05-14T13:58:32.767Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZxew : 404"}
+2016-05-14T13:58:35.086Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZyD9 : 404"}
+2016-05-14T13:58:39.061Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZzBI : 404"}
+2016-05-14T13:58:44.068Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZ-PX : 404"}
+2016-05-14T13:58:49.075Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlZ_dm : 404"}
+2016-05-14T13:58:54.084Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla0s0 : 404"}
+2016-05-14T13:58:59.095Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla24G : 404"}
+2016-05-14T13:59:04.104Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla3Ib : 404"}
+2016-05-14T13:59:09.115Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla4Wq : 404"}
+2016-05-14T13:59:14.125Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla5l9 : 404"}
+2016-05-14T13:59:19.135Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla6zQ : 404"}
+2016-05-14T13:59:24.147Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla8Bj : 404"}
+2016-05-14T13:59:29.157Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla9Q1 : 404"}
+2016-05-14T13:59:34.166Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaAeH : 404"}
+2016-05-14T13:59:39.174Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaBsZ : 404"}
+2016-05-14T13:59:44.181Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaD4o : 404"}
+2016-05-14T13:59:46.622Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T13:59:49.177Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaEIm : 404"}
+2016-05-14T13:59:50.236Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaEZ0 : 404"}
+2016-05-14T13:59:52.190Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaF1x : 404"}
+2016-05-14T13:59:55.349Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaFpH : 404"}
+2016-05-14T14:00:00.359Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaH1Z : 404"}
+2016-05-14T14:00:05.366Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaIFp : 404"}
+2016-05-14T14:00:08.132Z - error:   {"message":"/api : 404"}
+2016-05-14T14:00:11.225Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaJhK : 404"}
+2016-05-14T14:00:12.452Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaJ-W : 404"}
+2016-05-14T14:00:14.372Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaKSW : 404"}
+2016-05-14T14:00:19.381Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaLgm : 404"}
+2016-05-14T14:00:24.392Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaMv1 : 404"}
+2016-05-14T14:00:29.400Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaO7L : 404"}
+2016-05-14T14:00:34.408Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaPLa : 404"}
+2016-05-14T14:00:39.416Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaQZr : 404"}
+2016-05-14T14:00:44.424Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaRo5 : 404"}
+2016-05-14T14:00:49.435Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaT0K : 404"}
+2016-05-14T14:00:54.448Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaUEg : 404"}
+2016-05-14T14:00:59.457Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaVS- : 404"}
+2016-05-14T14:01:04.465Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaWhE : 404"}
+2016-05-14T14:01:09.474Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaXvT : 404"}
+2016-05-14T14:01:14.483Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaZ7k : 404"}
+2016-05-14T14:01:19.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaaRN : 404"}
+2016-05-14T14:01:26.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlac8k : 404"}
+2016-05-14T14:01:33.837Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlads6 : 404"}
+2016-05-14T14:01:40.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlafZV : 404"}
+2016-05-14T14:01:45.771Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:01:47.847Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlahGs : 404"}
+2016-05-14T14:01:52.311Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaiMp : 404"}
+2016-05-14T14:01:53.332Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaici : 404"}
+2016-05-14T14:01:55.872Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlajET : 404"}
+2016-05-14T14:02:00.234Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlakId : 404"}
+2016-05-14T14:02:05.241Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlalWr : 404"}
+2016-05-14T14:02:10.247Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlaml5 : 404"}
+2016-05-14T14:02:15.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlao6N : 404"}
+2016-05-14T14:02:22.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlappk : 404"}
+2016-05-14T14:02:29.842Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlarX8 : 404"}
+2016-05-14T14:02:36.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlatEV : 404"}
+2016-05-14T14:02:43.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlauxt : 404"}
+2016-05-14T14:02:50.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlawfF : 404"}
+2016-05-14T14:02:56.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlay6_ : 404"}
+2016-05-14T14:03:01.842Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlazLF : 404"}
+2016-05-14T14:03:06.849Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla-ZV : 404"}
+2016-05-14T14:03:11.859Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIla_nm : 404"}
+2016-05-14T14:03:16.866Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb0__ : 404"}
+2016-05-14T14:03:21.873Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb2EE : 404"}
+2016-05-14T14:03:27.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb3hM : 404"}
+2016-05-14T14:03:34.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb5Ol : 404"}
+2016-05-14T14:03:39.740Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:03:41.845Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb767 : 404"}
+2016-05-14T14:03:45.432Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb7-I : 404"}
+2016-05-14T14:03:46.375Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb8D4 : 404"}
+2016-05-14T14:03:48.560Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb8lC : 404"}
+2016-05-14T14:03:51.841Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlb9YM : 404"}
+2016-05-14T14:04:13.572Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:10:23.451Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:10:35.660Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlci83 : 404"}
+2016-05-14T14:10:36.352Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlciIz : 404"}
+2016-05-14T14:10:39.082Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcizd : 404"}
+2016-05-14T14:10:43.779Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlck6_ : 404"}
+2016-05-14T14:10:48.786Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlclLE : 404"}
+2016-05-14T14:10:53.793Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcmZU : 404"}
+2016-05-14T14:10:58.800Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcnnj : 404"}
+2016-05-14T14:11:03.808Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlco_y : 404"}
+2016-05-14T14:11:08.816Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcqED : 404"}
+2016-05-14T14:11:13.824Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcrSS : 404"}
+2016-05-14T14:11:19.839Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcswN : 404"}
+2016-05-14T14:11:26.841Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcudn : 404"}
+2016-05-14T14:11:33.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcwL6 : 404"}
+2016-05-14T14:11:40.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlcy2U : 404"}
+2016-05-14T14:11:47.838Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlczlt : 404"}
+2016-05-14T14:11:54.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIlc_TE : 404"}
+2016-05-14T14:12:01.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIld1Ac : 404"}
+2016-05-14T14:12:08.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIld2t_ : 404"}
+2016-05-14T14:12:15.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIld4bN : 404"}
+2016-05-14T14:12:22.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIld6Il : 404"}
+2016-05-14T14:12:29.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIld807 : 404"}
+2016-05-14T14:12:36.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIld9jV : 404"}
+2016-05-14T14:12:43.834Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldBQs : 404"}
+2016-05-14T14:12:50.847Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldD8G : 404"}
+2016-05-14T14:12:57.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldErc : 404"}
+2016-05-14T14:13:04.840Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldGY_ : 404"}
+2016-05-14T14:13:11.838Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldIGM : 404"}
+2016-05-14T14:13:12.783Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:13:17.025Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldJXP : 404"}
+2016-05-14T14:13:18.419Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldJt8 : 404"}
+2016-05-14T14:13:20.590Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldKPB : 404"}
+2016-05-14T14:13:25.837Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldLh8 : 404"}
+2016-05-14T14:13:32.837Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldNOU : 404"}
+2016-05-14T14:13:39.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldP5t : 404"}
+2016-05-14T14:13:46.835Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldQpE : 404"}
+2016-05-14T14:13:53.836Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldSWc : 404"}
+2016-05-14T14:14:00.840Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldUD_ : 404"}
+2016-05-14T14:14:07.841Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldVxO : 404"}
+2016-05-14T14:14:14.839Z - error:   {"message":"/socket.io/?EIO=3&transport=polling&t=LIldXeo : 404"}
+2016-05-14T14:14:20.031Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:14:58.829Z - error:   {"message":"/api : 404"}
+2016-05-14T14:14:59.110Z - error:   {"message":"/api : 404"}
+2016-05-14T14:15:27.288Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:17:24.196Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:19:14.183Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:19:51.678Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:20:33.530Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T14:27:49.221Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T15:29:41.186Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T15:33:49.008Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T15:33:49.025Z - info:    {"message":"MongoDB connected"}
+2016-05-14T15:44:26.033Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T15:44:26.048Z - info:    {"message":"MongoDB connected"}
+2016-05-14T15:46:51.457Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T15:46:51.472Z - info:    {"message":"MongoDB connected"}
+2016-05-14T15:46:56.676Z - info:    {"message":"Interval Cleareed"}
+2016-05-14T15:47:21.668Z - info:    {"message":"Interval Cleareed"}
+2016-05-14T15:47:53.499Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T15:47:53.514Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:00:51.439Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T18:00:51.560Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:00:56.270Z - error:   {"message":"/styles/jquery/jquery-ui.min.css : 404"}
+2016-05-14T18:00:56.273Z - error:   {"message":"/styles/production.min.css : 404"}
+2016-05-14T18:00:56.278Z - error:   {"message":"/js/jquery.min.js : 404"}
+2016-05-14T18:00:56.279Z - error:   {"message":"/js/jquery-ui.min.js : 404"}
+2016-05-14T18:01:58.055Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T18:01:58.088Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:03:56.353Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:04:24.065Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T18:04:24.080Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:04:26.221Z - error:   {"message":"/styles/production.min.css : 404"}
+2016-05-14T18:05:59.411Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T18:05:59.426Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:06:02.160Z - error:   {"message":"/styles/production.min.css : 404"}
+2016-05-14T18:06:33.716Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T18:06:33.731Z - info:    {"message":"MongoDB connected"}
+2016-05-14T18:25:18.892Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-14T18:25:18.907Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:04:01.048Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:04:01.064Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:16:05.395Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:16:05.410Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:17:39.781Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:17:39.796Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:19:10.040Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:19:10.054Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:23:53.488Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:23:53.503Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:25:37.289Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:25:37.307Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:31:07.785Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:31:07.800Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:32:03.157Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:32:03.172Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:35:31.106Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:35:31.121Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:54:23.282Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:54:23.297Z - info:    {"message":"MongoDB connected"}
+2016-05-15T03:59:04.185Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T03:59:04.200Z - info:    {"message":"MongoDB connected"}
+2016-05-15T04:00:22.498Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T04:00:22.514Z - info:    {"message":"MongoDB connected"}
+2016-05-15T04:01:20.678Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T04:01:20.693Z - info:    {"message":"MongoDB connected"}
+2016-05-15T04:01:50.674Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T04:01:50.689Z - info:    {"message":"MongoDB connected"}
+2016-05-15T04:03:53.054Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T04:03:53.072Z - info:    {"message":"MongoDB connected"}
+2016-05-15T04:34:07.529Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T04:34:07.544Z - info:    {"message":"MongoDB connected"}
+2016-05-15T04:55:18.130Z - error:   {"message":"/about : 404"}
+2016-05-15T05:08:09.063Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T05:08:09.085Z - info:    {"message":"MongoDB connected"}
+2016-05-15T05:44:28.931Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T05:44:28.949Z - info:    {"message":"MongoDB connected"}
+2016-05-15T06:01:23.128Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T06:01:23.150Z - info:    {"message":"MongoDB connected"}
+2016-05-15T06:14:41.083Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T06:14:41.155Z - info:    {"message":"MongoDB connected"}
+2016-05-15T06:14:45.811Z - error:   {"message":"/styles/jquery-ui.min.css : 404"}
+2016-05-15T06:14:45.814Z - error:   {"message":"/styles/site.css : 404"}
+2016-05-15T06:14:51.694Z - error:   {"message":"/styles/jquery-ui.min.css : 404"}
+2016-05-15T06:14:51.703Z - error:   {"message":"/styles/site.css : 404"}
+2016-05-15T06:15:53.197Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T06:15:53.214Z - info:    {"message":"MongoDB connected"}
+2016-05-15T06:15:56.434Z - error:   {"message":"/styles/jquery-ui.min.css : 404"}
+2016-05-15T06:15:56.437Z - error:   {"message":"/styles/site.css : 404"}
+2016-05-15T06:18:59.989Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T06:19:00.013Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:35:13.885Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:35:13.927Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:35:23.860Z - error:   {"message":"/favicon.ico : 404"}
+2016-05-15T07:36:40.100Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:36:40.120Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:38:14.699Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:38:14.717Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:38:31.900Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:38:31.919Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:39:09.525Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:39:09.544Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:39:49.518Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:39:49.537Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:40:53.299Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:40:53.318Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:41:05.666Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:41:05.685Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:41:41.297Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:41:41.316Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:42:12.457Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:42:12.476Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:43:48.266Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:43:48.285Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:45:30.868Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:45:30.887Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:49:01.900Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:49:01.920Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:51:59.368Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:51:59.388Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:53:13.993Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:53:14.013Z - info:    {"message":"MongoDB connected"}
+2016-05-15T07:54:24.377Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T07:54:24.397Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:11:48.885Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:11:48.904Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:11:58.672Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:03.679Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:08.686Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:13.692Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:18.692Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:23.697Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:39.914Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:12:39.934Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:12:48.584Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:12:53.592Z - error:   {"message":"MongoDb Not able to reset counter for username:undefined"}
+2016-05-15T08:14:32.373Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:14:32.392Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:46:45.496Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:46:45.515Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:47:05.260Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:47:05.281Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:54:36.038Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:54:36.058Z - info:    {"message":"MongoDB connected"}
+2016-05-15T08:54:40.323Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T08:54:40.343Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:00:22.718Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:00:22.737Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:00:44.545Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:00:44.566Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:00:58.001Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:00:58.022Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:01:01.123Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:01:01.142Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:02:28.067Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:02:28.087Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:03:11.432Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:03:11.452Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:03:42.656Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:03:42.676Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:46:46.346Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:46:46.366Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:46:48.220Z - error:   {"message":"MongoDB Not able to add username: undefined"}
+2016-05-15T09:46:48.221Z - error:   {"message":"{\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: notifications.users.$username_1 dup key: { : null }\",\"op\":{\"counter\":0,\"_id\":\"57384588e840f856493c2889\",\"__v\":0}}"}
+2016-05-15T09:48:53.283Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:48:53.302Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:49:38.604Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:49:38.624Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:51:28.911Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:51:28.930Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:53:36.416Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:53:36.435Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:55:03.134Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:55:03.154Z - info:    {"message":"MongoDB connected"}
+2016-05-15T09:56:41.252Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T09:56:41.272Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:05:27.859Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:05:27.880Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:06:46.863Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:06:46.884Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:08:32.012Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:08:32.032Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:10:33.240Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:10:33.259Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:11:46.718Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:11:46.738Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:13:15.770Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:13:15.790Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:39:51.848Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:39:51.868Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:40:57.478Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:40:57.499Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:41:20.545Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:41:20.565Z - info:    {"message":"MongoDB connected"}
+2016-05-15T10:41:50.710Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T10:41:50.730Z - info:    {"message":"MongoDB connected"}
+2016-05-15T11:17:02.095Z - error:   {"message":"/bell.png : 404"}
+2016-05-15T11:23:27.273Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T11:23:27.293Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:16:06.265Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:16:06.285Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:17:52.819Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:17:52.839Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:19:33.045Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:19:33.064Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:27:58.261Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:27:58.283Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:29:14.000Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:29:14.020Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:32:09.796Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:32:09.817Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:34:09.615Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:34:09.634Z - info:    {"message":"MongoDB connected"}
+2016-05-15T12:35:57.031Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T12:35:57.051Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:41:04.049Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:41:04.069Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:43:34.611Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:43:34.632Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:44:34.706Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:44:34.726Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:44:54.003Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:44:54.023Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:45:17.744Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:45:17.764Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:49:50.017Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:49:50.037Z - info:    {"message":"MongoDB connected"}
+2016-05-15T13:52:11.766Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T13:52:11.786Z - info:    {"message":"MongoDB connected"}
+2016-05-15T14:01:10.976Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T14:01:10.996Z - info:    {"message":"MongoDB connected"}
+2016-05-15T14:10:38.346Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T14:10:38.366Z - info:    {"message":"MongoDB connected"}
+2016-05-15T14:16:09.911Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T14:16:09.933Z - info:    {"message":"MongoDB connected"}
+2016-05-15T14:45:09.292Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T14:45:09.312Z - info:    {"message":"MongoDB connected"}
+2016-05-15T14:46:52.684Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T14:46:52.704Z - info:    {"message":"MongoDB connected"}
+2016-05-15T14:55:45.094Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T14:55:45.114Z - info:    {"message":"MongoDB connected"}
+2016-05-15T16:51:04.558Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T16:51:04.578Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:00:33.696Z - error:   {"message":"{\"url\":\"/\",\"method\":\"GET\",\"cause\":\"undefined ReferenceError /home/parveen1112/WebstormProjects/NotificationSystem/views/index.ejs:24\\n    22| </footer>\\n    23| \\n >> 24| <% if (isLoggedIn) { %>\\n    25| <script>\\n    26|     var host = \\\"<%= host %>\\\",\\n    27|             port = \\\"<%= port %>\\\";\\n\\nisLoggedIn is not defined\"}ReferenceError: /home/parveen1112/WebstormProjects/NotificationSystem/views/index.ejs:24\n    22| </footer>\n    23| \n >> 24| <% if (isLoggedIn) { %>\n    25| <script>\n    26|     var host = \"<%= host %>\",\n    27|             port = \"<%= port %>\";\n\nisLoggedIn is not defined\n    at eval (eval at <anonymous> (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:485:12), <anonymous>:28:12)\n    at returnedFn (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:514:17)\n    at View.exports.renderFile [as engine] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/ejs/lib/ejs.js:358:31)\n    at View.render (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/view.js:126:8)\n    at tryRender (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/application.js:639:10)\n    at EventEmitter.render (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/application.js:591:3)\n    at ServerResponse.render (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/response.js:961:7)\n    at module.exports.get (/home/parveen1112/WebstormProjects/NotificationSystem/api/controllers/IndexController.js:3:20)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/lib/router/index.js:31:22\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/route.js:131:13)\n    at Route.dispatch (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/layer.js:95:5)\n    at /home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:277:22\n    at Function.process_params (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:330:12)\n    at next (/home/parveen1112/WebstormProjects/NotificationSystem/node_modules/express/lib/router/index.js:271:10)"}
+2016-05-15T17:24:20.042Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:24:20.083Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:27:29.766Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:27:29.786Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:28:59.237Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:28:59.256Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:30:47.876Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:30:47.896Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:36:20.245Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:36:20.265Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:38:54.347Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:38:54.368Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:40:18.916Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:40:18.935Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:41:56.189Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:41:56.210Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:58:42.737Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:58:42.756Z - info:    {"message":"MongoDB connected"}
+2016-05-15T17:58:56.122Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T17:58:56.141Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:00:37.438Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:00:37.457Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:02:22.575Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:02:22.594Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:06:08.508Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:06:08.532Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:17:01.599Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:17:01.629Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:25:20.933Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:25:20.953Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:27:15.608Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:27:15.628Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:27:48.925Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:27:48.945Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:33:23.495Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:33:23.515Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:33:51.013Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:33:51.034Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:36:48.548Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:36:48.569Z - info:    {"message":"MongoDB connected"}
+2016-05-15T18:39:16.534Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-15T18:39:16.554Z - info:    {"message":"MongoDB connected"}
+2016-05-16T04:00:37.158Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-16T04:00:37.178Z - info:    {"message":"MongoDB connected"}
+2016-05-16T04:11:04.827Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-16T04:11:04.847Z - info:    {"message":"MongoDB connected"}
+2016-05-16T04:11:10.689Z - error:   {"message":"/favicon.ico : 404"}
+2016-05-16T04:13:38.606Z - error:   {"message":"/favicon.ico : 404"}
+2016-05-16T04:13:38.775Z - error:   {"message":"/favicon.ico : 404"}
+2016-05-16T04:21:09.242Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-16T04:21:09.262Z - info:    {"message":"MongoDB connected"}
+2016-05-16T04:51:11.191Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-16T04:51:11.212Z - info:    {"message":"MongoDB connected"}
+2016-05-16T04:56:08.082Z - info:    {"message":"-------------------Application Started-----------------8000"}
+2016-05-16T04:56:08.102Z - info:    {"message":"MongoDB connected"}
